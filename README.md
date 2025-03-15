@@ -25,5 +25,6 @@
 <img src="https://origin.cronosmedia.glr.pe/large/2019/04/29/lg_62dde9258cb10d104e23129b.jpg" alt="Escabeche de Pollo" height="300">
 
 ## Redes Sociales
-- (https://www.facebook.com/profile.php?id=100060893626502)
-- (https://github.com/GabrielaDavil)
+- [facebook](https://www.facebook.com/profile.php?id=100060893626502)
+- [github](https://github.com/GabrielaDavil)
+- [recetas](https://gabrieladavil.github.io/papas-fritas/recetas)
